@@ -49,6 +49,8 @@ Spinner s1,s2;
         citys=new ArrayList<String>();
         states=new ArrayList<String>();
 
+        // changes done
+
 
 
         String sstate= s1.getSelectedItem().toString();
